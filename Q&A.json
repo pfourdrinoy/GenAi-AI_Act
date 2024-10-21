@@ -26,12 +26,12 @@
             "expected_answer": "This obligation helps ensure the effective implementation of the European regulation, particularly to reduce systemic risks such as misinformation, which could affect democratic processes and elections."
         },
         {
-            "question": "",
-            "expected_answer": ""
+            "question": "What transparency obligations does the AI Act impose to mitigate the risks associated with AI usage, particularly regarding interactions with machines and AI-generated content?",
+            "expected_answer": "Limited risk refers to the risks associated with lack of transparency in AI usage. The AI Act introduces specific transparency obligations to ensure that humans are informed when necessary, fostering trust. For instance, when using AI systems such as chatbots, humans should be made aware that they are interacting with a machine so they can take an informed decision to continue or step back. Providers also have to ensure that AI-generated content is identifiable. Besides, AI-generated text published with the purpose to inform the public on matters of public interest must be labelled as artificially generated. This also applies to audio and video content constituting deep fakes."
         },
         {
-            "question": "",
-            "expected_answer": ""
+            "question": "What types of AI applications fall under minimal-risk and are allowed for free use according to the AI Act?",
+            "expected_answer": "The AI Act allows the free use of minimal-risk AI. This includes applications such as AI-enabled video games or spam filters. The vast majority of AI systems currently used in the EU fall into this category."
         },
         {
             "question": "",
