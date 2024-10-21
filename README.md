@@ -86,3 +86,7 @@ These provisions aim to ensure that biometric identification is used in a way th
 
 ## Main criteria to be satisfied by our LLM assistant
 
+Since it is about regulation, we want to focus on the quality of the answer.
+The length of the answer is an important metric, knowing that we want exhaustive and detailed answers.
+Of course the reliability of the answer is a major part of a successful model.
+Also, we need to be sure that the user understood, so the user's feedback is an essential metric to ensure a good improvement.
