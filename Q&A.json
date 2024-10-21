@@ -1,16 +1,17 @@
 {
     "questions": [
         {
-            "question": "",
-            "expected_answer": ""
+            "question": "When was the AI Act adopted?",
+            "expected_answer": "The AI Act was adopted in June 2023."
         },
         {
-            "question": "",
-            "expected_answer": ""
-        },
+            "question": "What are the possible sanctions if it is not respected?",
+            "expected_answer": "Companies or institutions that do not comply with the obligations imposed by the AI Act may face significant fines, which can amount to up to 6% of their global annual revenue."
+        }
+        ,
         {
-            "question": "",
-            "expected_answer": ""
+            "question": "To whom does the AI Act apply?",
+            "expected_answer": "The legal framework will apply to both public and private actors inside and outside the EU as long as the AI system is placed on the Union market, or its use has an impact on people located in the EU."
         },
         {
             "question": "",
