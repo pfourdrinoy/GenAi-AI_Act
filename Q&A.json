@@ -14,16 +14,16 @@
             "expected_answer": "The legal framework will apply to both public and private actors inside and outside the EU as long as the AI system is placed on the Union market, or its use has an impact on people located in the EU."
         },
         {
-            "question": "",
-            "expected_answer": ""
+            "question": "What is the role of the AI Office regarding the codes of good practice for providers of general-purpose AI models?",
+            "expected_answer": "The AI Office must encourage, facilitate, and revise the codes of good practice while taking into account international approaches and collaborating with relevant national authorities, civil society organizations, and experts."
         },
         {
-            "question": "",
-            "expected_answer": ""
+            "question": "What must providers of very large online platforms and search engines do to manage systemic risks related to AI usage?",
+            "expected_answer": "Providers of very large platforms and search engines must assess the systemic risks related to the design and use of their services, including algorithmic systems, and implement measures to mitigate these risks while respecting fundamental rights."
         },
         {
-            "question": "",
-            "expected_answer": ""
+            "question": "Why must AI system providers disclose that content generated or manipulated by AI has been produced by it?",
+            "expected_answer": "This obligation helps ensure the effective implementation of the European regulation, particularly to reduce systemic risks such as misinformation, which could affect democratic processes and elections."
         },
         {
             "question": "",
