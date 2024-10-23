@@ -92,3 +92,11 @@ Of course the reliability of the answer is a major part of a successful model.
 Also, we need to be sure that the user understood, so the user's feedback is an essential metric to ensure a good improvement.
 
 The model should not help to bypass the EU AI Act.
+
+
+## Important metrics
+
+### Answer quality metrics 
+### User experience metrics
+### Performance metrics
+### Cost metrics
