@@ -309,6 +309,71 @@ The majority of rules of the AI Act (for example, some requirements on the high-
 In this context and within the framework of the AI Pact, the AI Office calls on all organisations to proactively anticipate and implement some of the key provisions of the AI Act, with the aim of mitigating the risks to health, safety and fundamental rights as soon as possible.
 
 More than 700 organisations have already expressed their interest in joining the AI Pact initiative, further to a call launched in November 2023. A first information session was held online on 6 May, with 300 participants. The official signing of the voluntary commitments is planned for autumn 2024. There will be a workshop on the AI Pact in the first week of September."
+        },
+
+        {
+            "question": "What are the obligations for High-risk AI systems?",
+            "expected_answer": "High-risk AI systems are subject to strict obligations before they can be put on the market:
+•	adequate risk assessment and mitigation systems
+•	high quality of the datasets feeding the system to minimise risks and discriminatory outcomes
+•	logging of activity to ensure traceability of results
+•	detailed documentation providing all information necessary on the system and its purpose for authorities to assess its compliance
+•	clear and adequate information to the deployer
+•	appropriate human oversight measures to minimise risk
+•	high level of robustness, security and accuracy
+All remote biometric identification systems are considered high-risk and subject to strict requirements. The use of remote biometric identification in publicly accessible spaces for law enforcement purposes is, in principle, prohibited.
+Narrow exceptions are strictly defined and regulated, such as when necessary to search for a missing child, to prevent a specific and imminent terrorist threat or to detect, locate, identify or prosecute a perpetrator or suspect of a serious criminal offence.
+Those usages is subject to authorisation by a judicial or other independent body and to appropriate limits in time, geographic reach and the data bases searched."
+        },
+        {
+            "question": "What role does the AI Pact play in the implementation of the AI Act?",
+            "expected_answer": ""
+        },
+        {
+            "question": "What are the AI systems identified as high-risk?",
+            "expected_answer": "AI systems identified as high-risk include AI technology used in:
+•	critical infrastructures (e.g. transport), that could put the life and health of citizens at risk
+•	educational or vocational training, that may determine the access to education and professional course of someone’s life (e.g. scoring of exams)
+•	safety components of products (e.g. AI application in robot-assisted surgery)
+•	employment, management of workers and access to self-employment (e.g. CV-sorting software for recruitment procedures)
+•	essential private and public services (e.g. credit scoring denying citizens opportunity to obtain a loan)
+•	law enforcement that may interfere with people’s fundamental rights (e.g. evaluation of the reliability of evidence)
+•	migration, asylum and border control management (e.g. automated examination of visa applications)
+•	administration of justice and democratic processes (e.g. AI solutions to search for court rulings)"
+        },
+        {
+            "question": "Which AI systems are banned according to AI Act?",
+            "expected_answer": "All AI systems considered a clear threat to the safety, livelihoods and rights of people are banned, from social scoring by governments to toys using voice assistance that encourages dangerous behaviour."
+        },
+        {
+            "question": "Quels sont les principaux risques que les systèmes d'IA peuvent poser, et comment l'AI Act propose-t-il de les atténuer ?",
+            "expected_answer": "The AI Act ensures that Europeans can trust what AI has to offer. While most AI systems pose limited to no risk and can contribute to solving many societal challenges, certain AI systems create risks that we must address to avoid undesirable outcomes.
+For example, it is often not possible to find out why an AI system has made a decision or prediction and taken a particular action. So, it may become difficult to assess whether someone has been unfairly disadvantaged, such as in a hiring decision or in an application for a public benefit scheme.
+Although existing legislation provides some protection, it is insufficient to address the specific challenges AI systems may bring.
+The new rules:
+•	address risks specifically created by AI applications
+•	prohibit AI practices that pose unacceptable risks
+•	determine a list of high-risk applications
+•	set clear requirements for AI systems for high-risk applications
+•	define specific obligations deployers and providers of high-risk AI applications
+•	require a conformity assessment before a given AI system is put into service or placed on the market
+•	put enforcement in place after a given AI system is placed into the market
+•	establish a governance structure at European and national level"
+        },
+        {
+            "question": "What is AI Act ?",
+            "expected_answer": "The AI Act is the first-ever legal framework on AI, which addresses the risks of AI and positions Europe to play a leading role globally. 
+The AI Act (Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence) provides AI developers and deployers with clear requirements and obligations regarding specific uses of AI. At the same time, the regulation seeks to reduce administrative and financial burdens for business, in particular small and medium-sized enterprises (SMEs).
+The AI Act is part of a wider package of policy measures to support the development of trustworthy AI, which also includes the AI Innovation Package and the Coordinated Plan on AI. Together, these measures guarantee the safety and fundamental rights of people and businesses when it comes to AI. They also strengthen uptake, investment and innovation in AI across the EU.
+The AI Act is the first-ever comprehensive legal framework on AI worldwide. The aim of the new rules is to foster trustworthy AI in Europe and beyond, by ensuring that AI systems respect fundamental rights, safety, and ethical principles and by addressing risks of very powerful and impactful AI models."
         }
+
+
+
+
+
+
+
+
     ]
 }
