@@ -97,6 +97,21 @@ The model should not help to bypass the EU AI Act.
 ## Important metrics
 
 ### Answer quality metrics 
+Edit Distance Metrics: The average edit distance measurement between user prompts and among LLM responses and retained content serves as an indicator of prompt refinement and content customization.
+Prompt and response length: Average lengths of prompts and responses.Ensures that responses are concise but thorough. For regulatory compliance, overly lengthy or unclear answers can overwhelm users, while short responses may miss critical details.
+ROUGE (Recall-Oriented Understudy for Gisting Evaluation): evaluates the quality of machine-generated text by comparing it to reference texts based on overlapping words and phrases. Help assessing how closely the tool's AI-generated compliance advice aligns with expert-written legal guidance, ensuring accuracy and trustworthiness in navigating the EU AI Act.
+
 ### User experience metrics
+LLM conversation: Average number of LLM conversations per user. Gauges how often users consult the tool for compliance checks, showcasing its usability and importance in AI project development cycles.
+User Feedback: Collects direct feedback (e.g., thumbs up/down) to improve the accuracy and relevance of the tool’s AI compliance advice.
+Active days: Active days using LLM features per user. Reflects user engagement and long-term value. Regular, active users suggest the tool is valuable for ongoing compliance maintenance, not just one-off checks.
+
 ### Performance metrics
+Requests per second (Concurrency): Number of requests processed by the LLM per second. Ensures the tool can handle multiple compliance checks from different users concurrently, which is crucial for scalability as more organizations adopt the tool.
+Tokens per second: Counts the tokens rendered per second during LLM response streaming. Measures the speed of response generation, ensuring that the legal and regulatory advice is provided promptly.
+Reliability: The percentage of successful requests compared to total requests, including those with errors or failures. Ensures high availability and accuracy, as the tool must consistently provide correct guidance to maintain trust and compliance with EU AI regulations.
+
 ### Cost metrics
+GPU/CPU Utilization: Utilization in terms of total number of tokens. Tracks the resource efficiency of the tool, ensuring that compliance checks are handled in a cost-effective manner without unnecessary overhead for AI model inferences.
+Infrastructure cost: Costs from storage, networking, computing resources, etc. Helps monitor the costs of running the tool on cloud infrastructure (storage, networking, computing), ensuring that it remains financially sustainable as usage grows.
+Operation cost: Costs from maintenance, support, monitoring, logging, security measures, etc. Tracks the costs associated with supporting the tool (maintenance, support, security), ensuring compliance assistance is provided efficiently and affordably to users.
