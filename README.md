@@ -86,13 +86,10 @@ These provisions aim to ensure that biometric identification is used in a way th
 
 ## Main criteria to be satisfied by our LLM assistant
 
-Since it is about regulation, we want to focus on the quality of the answer.
-The length of the answer is an important metric, knowing that we want exhaustive and detailed answers.
-Of course the reliability of the answer is a major part of a successful model.
-Also, we need to be sure that the user understood, so the user's feedback is an essential metric to ensure a good improvement.
-
-The model should not help to bypass the EU AI Act.
-
+Since the assistant centers on regulatory compliance, several aspects are critical.
+Each response must be both accurate and comprehensive, reflecting the detailed and exhaustive nature required by regulatory guidance. This ensures that the assistant provides not just relevant but also legally sound advice.
+For regulatory topics, the length of the response is essential. Responses should be detailed enough to cover all necessary points while remaining digestible, balancing  User feedback should be collected to measure whether responses are clear and actionable. This metric helps ensure the model evolves based on user comprehension and satisfaction, improving the guidance provided.
+The model should be strictly designed to support compliance efforts, not to provide information that could circumvent or undermine the EU AI Act’s provisions.
 
 ## Important metrics
 
