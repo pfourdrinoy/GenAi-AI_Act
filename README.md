@@ -113,7 +113,7 @@ GPU/CPU Utilization: Utilization in terms of total number of tokens. Tracks the 
 Infrastructure cost: Costs from storage, networking, computing resources, etc. Helps monitor the costs of running the tool on cloud infrastructure (storage, networking, computing), ensuring that it remains financially sustainable as usage grows.
 Operation cost: Costs from maintenance, support, monitoring, logging, security measures, etc. Tracks the costs associated with supporting the tool (maintenance, support, security), ensuring compliance assistance is provided efficiently and affordably to users.
 
-#### Benchmarks for our LLM
+## Benchmarks for our LLM
 
 ### 1. **SuperGLUE**
    - **Purpose**: Tests comprehension of complex text and reasoning, essential for interpreting legal concepts and responding to nuanced questions about the AI Act.
