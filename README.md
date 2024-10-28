@@ -112,3 +112,32 @@ Reliability: The percentage of successful requests compared to total requests, i
 GPU/CPU Utilization: Utilization in terms of total number of tokens. Tracks the resource efficiency of the tool, ensuring that compliance checks are handled in a cost-effective manner without unnecessary overhead for AI model inferences.
 Infrastructure cost: Costs from storage, networking, computing resources, etc. Helps monitor the costs of running the tool on cloud infrastructure (storage, networking, computing), ensuring that it remains financially sustainable as usage grows.
 Operation cost: Costs from maintenance, support, monitoring, logging, security measures, etc. Tracks the costs associated with supporting the tool (maintenance, support, security), ensuring compliance assistance is provided efficiently and affordably to users.
+
+#### Benchmarks for our LLM
+
+### 1. **SuperGLUE**
+   - **Purpose**: Tests comprehension of complex text and reasoning, essential for interpreting legal concepts and responding to nuanced questions about the AI Act.
+
+### 2. **MMLU (Massive Multitask Language Understanding)**
+   - **Purpose**: Assesses the model’s ability to cover diverse domains like law, ethics, governance, and technology, all crucial for AI regulation.
+
+### 3. **Ethical and Safety Benchmarks (e.g., REAL Toxicity Prompts, Bias Tests)**
+   - **Purpose**: Ensures the assistant avoids generating biased, toxic, or unethical responses, especially important for sensitive topics like the AI Act.
+
+### 4. **BIG-bench**
+   - **Purpose**: Tests advanced reasoning and creativity, necessary for explaining complex topics or addressing unexpected questions about regulation.
+
+### 5. **SQuAD (Stanford Question Answering Dataset)**
+   - **Purpose**: Measures the AI's ability to extract specific information from dense legal texts and respond accurately.
+
+### 6. **Winogrande (Commonsense Reasoning)**
+   - **Purpose**: Evaluates the model’s ability to make logical inferences in ambiguous legal scenarios and clarify regulatory implications.
+
+### 7. **HumanEval (Legal Text Generation)**
+   - **Purpose**: Verifies the model’s capacity to generate precise legal summaries or provide regulatory advice based on the AI Act.
+
+### 8. **LAMBADA (Contextual Understanding)**
+   - **Purpose**: Tests long-text comprehension, allowing the AI to maintain consistency in discussions around lengthy legal documents like the AI Act.
+
+### Key Considerations for the AI Act Assistant
+- **Legal accuracy**, **ethical sensitivity**, **robust reasoning**, and **transparency** are crucial to build an assistant that provides clear legal explanations and fosters user trust.
